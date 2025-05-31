@@ -1,0 +1,5 @@
+Data Types
+1.integers: simple numbers
+2.String: Sentences
+3.float: decimal numbers
+4.Boolean: True or False
